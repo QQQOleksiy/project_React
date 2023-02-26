@@ -1,0 +1,12 @@
+.main_{
+    display: flex;
+}
+
+.genres_list{
+    width: 20%;
+    min-height: 100vh;
+}
+
+.card_list{
+    width: 80%;
+}

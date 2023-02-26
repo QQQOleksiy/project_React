@@ -1,0 +1,35 @@
+.header {
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(95deg, #03012d, #4c6fa2);
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.header > a{
+    height: 100%;
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header > div{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user{
+    height: 40px;
+    width: 40px;
+    background: #8d8d8a;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
